@@ -21,10 +21,12 @@
 ---
 
 ### 🧩 What I build:
-- RESTful APIs with **Laravel** & **.NET Web API**  
-- Dynamic & responsive web apps using **React** and **Bootstrap**  
-- Database design & complex queries with **SQL Server** and **MySQL**  
-- Scalable backend services and integrations  
+- Custom business web applications with **PHP** and **Laravel**  
+- Responsive frontends using **React**  
+- Robust RESTful APIs for seamless frontend-backend communication  
+- Backend systems using **.NET MVC** and **.NET Core**  
+- Database-driven applications using **SQL Server** and **MySQL**  
+- Inventory management, billing, and other business solutions  
 
 ---
 
