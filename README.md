@@ -1,17 +1,10 @@
-<h2 align="center">👋 Hi, I'm <span style="color:#0A66C2;">Mehedi Hasan Tushar</span>!</h2>
+## 👋 Hi there, I'm Mehedi Hasan Tushar!
 
-<p align="center">
-  🚀 Full-Stack Web Developer | 💻 PHP • Laravel • React • .NET MVC <br/>
-  📫 Email: <a href="mailto:tusharmehedi200@gmail.com">tusharmehedi200@gmail.com</a>
-</p>
-
----
-
-### 👨‍💻 About Me:
-- 👀 I’m interested in **full-stack web development**
-- 🌱 I’m currently learning **React**, **.NET MVC**
-- 💞️ I’m looking to collaborate on **open source projects**
-- 🎯 Always improving skills in **modern web technologies**
+🎓 A passionate full-stack developer from Bangladesh  
+💻 I love building web applications using **PHP**, **Laravel**, **React**, **.NET MVC**, and **REST APIs**  
+🌱 Currently sharpening my skills in modern web technologies  
+🚀 Always open to collaborating on open source and community projects  
+📫 You can reach me at: tusharmehedi200@gmail.com  
 
 ---
 
@@ -20,8 +13,18 @@
 ![Laravel](https://img.shields.io/badge/Laravel-E34F26?style=flat&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=api&logoColor=white)
+
+---
+
+### 🧩 What I build:
+- RESTful APIs with **Laravel** & **.NET Web API**  
+- Dynamic & responsive web apps using **React** and **Bootstrap**  
+- Database design & complex queries with **SQL Server** and **MySQL**  
+- Scalable backend services and integrations  
 
 ---
 
@@ -32,3 +35,4 @@
 ---
 
 > “Consistency is the key to mastery.” 🔑
+
