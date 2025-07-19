@@ -31,8 +31,16 @@
 ---
 
 ### 🌐 Connect With Me:
-[![Facebook](https://www.facebook.com/share/1HBfgTjRUp/?mibextid=wwXIfr)
-[![LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+<!-- Facebook Share Button -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=YOUR_URL" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="32" height="32" />
+</a>
+
+<!-- LinkedIn Share Button -->
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=YOUR_URL" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="32" height="32" />
+</a>
+
 
 ---
 
