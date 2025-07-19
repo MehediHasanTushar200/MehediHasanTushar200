@@ -31,8 +31,8 @@
 ---
 
 ### 🌐 Connect With Me:
-[![Facebook]()
-[![LinkedIn]()
+[![Facebook](https://www.facebook.com/share/1HBfgTjRUp/?mibextid=wwXIfr)
+[![LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 
 ---
 
