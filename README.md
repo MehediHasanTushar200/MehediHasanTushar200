@@ -31,14 +31,20 @@
 ---
 
 <!-- Facebook Link -->
-<a href="https://www.facebook.com/your-facebook-id" target="_blank" style="color:#3b5998; text-decoration:none; font-weight:bold;">
-  Facebook
+<!-- Facebook Badge -->
+<a href="https://www.facebook.com/yourfacebookid" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <img 
+    src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" 
+    alt="Facebook" />
 </a>
 
-<!-- LinkedIn Link -->
-<a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank" style="color:#0077b5; text-decoration:none; font-weight:bold; margin-left:15px;">
-  LinkedIn
+<!-- LinkedIn Badge -->
+<a href="https://www.linkedin.com/in/yourlinkedinid" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" 
+    alt="LinkedIn" />
 </a>
+
 
 ---
 
