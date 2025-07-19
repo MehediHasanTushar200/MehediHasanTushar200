@@ -30,15 +30,49 @@
 
 ---
 
-### 🌐 Connect With Me:
-<!-- Facebook Share Button -->
-<a href="https://www.facebook.com/sharer/sharer.php?u=YOUR_URL" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="32" height="32" />
+<style>
+.social-icon {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 12px;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+.facebook-icon {
+  background-color: #1877F2;
+}
+
+.facebook-icon:hover {
+  background-color: #0f5bb5;
+}
+
+.linkedin-icon {
+  background-color: #0A66C2;
+}
+
+.linkedin-icon:hover {
+  background-color: #004182;
+}
+
+.social-icon img {
+  width: 24px;
+  height: 24px;
+  display: block;
+  margin: 8px auto;
+}
+</style>
+
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://example.com" target="_blank" rel="noopener noreferrer" class="social-icon facebook-icon" aria-label="Share on Facebook">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" />
 </a>
 
-<!-- LinkedIn Share Button -->
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=YOUR_URL" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="32" height="32" />
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://example.com" target="_blank" rel="noopener noreferrer" class="social-icon linkedin-icon" aria-label="Share on LinkedIn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" />
 </a>
 
 
